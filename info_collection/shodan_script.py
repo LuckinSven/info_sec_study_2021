@@ -13,7 +13,7 @@
 import shodan
 
 # 更换自己的Key
-SHODAN_API_KEY = "tPCV9YU8HohY2fJR6ICHoqwilHWATu35"
+SHODAN_API_KEY = "XXX"
 
 api = shodan.Shodan(SHODAN_API_KEY)
 try:
